@@ -1,3 +1,9 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rupsa-chakraborti/rupsa-chakraborti.github.io) 
+
+# [Link to site](https://rupsa-chakraborti.github.io/)
+
+<!-- 
+
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
@@ -71,3 +77,5 @@ Credits:
 ```
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+
+-->
